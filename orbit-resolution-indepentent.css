@@ -1,0 +1,11 @@
+.svg div.orbit-wrapper div.slider-nav span.left { background: url('../images/foundation/orbit/left-arrow.svg'); }
+
+.svg div.orbit-wrapper div.slider-nav span.right { background: url('../images/foundation/orbit/right-arrow.svg'); }
+
+.svg div.orbit-wrapper span.rotator { background: url('../images/foundation/orbit/rotator-black.svg') no-repeat; }
+
+div.orbit-wrapper span.mask.move { background: url('../images/foundation/orbit/timer-black.svg') repeat 0 0; }
+
+.svg div.orbit-wrapper span.pause { background: url('../images/foundation/orbit/pause-black.svg') no-repeat; }
+
+.svg div.orbit-wrapper span.pause.active { background: url('../images/foundation/orbit/pause-black.svg') no-repeat 0 -40px; }

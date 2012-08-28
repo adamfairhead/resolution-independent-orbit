@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="bullets" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="21px" height="12px" viewBox="0 0 21 12" enable-background="new 0 0 21 12" xml:space="preserve">
+<g>
+	<circle fill="#FFFFFF" cx="15.5" cy="5.938" r="3.688"/>
+	<path d="M15.5,2.25c2.036,0,3.688,1.651,3.688,3.688c0,2.036-1.651,3.688-3.688,3.688s-3.688-1.651-3.688-3.688
+		C11.812,3.901,13.464,2.25,15.5,2.25 M15.5,0.25c-3.136,0-5.688,2.551-5.688,5.688c0,3.136,2.552,5.688,5.688,5.688
+		s5.688-2.552,5.688-5.688C21.188,2.801,18.636,0.25,15.5,0.25L15.5,0.25z"/>
+</g>
+<g>
+	<circle cx="4.469" cy="5.812" r="3.562"/>
+</g>
+</svg>
